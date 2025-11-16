@@ -78,6 +78,7 @@ MORE = 1085<br>
 <hr>
 MONEY = 10652<br>
 <hr>
+
 ### PROGRAM
 ```python
 from itertools import permutations
